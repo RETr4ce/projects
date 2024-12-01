@@ -1,0 +1,12 @@
+[project]
+name = "aggregator"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "aiohttp>=3.11.8",
+    "elasticsearch>=8.16.0",
+    "python-dotenv>=1.0.1",
+    "websockets>=14.1",
+]
