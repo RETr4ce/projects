@@ -1,7 +1,7 @@
 ```
 Formule: Stopwoord = ((frequentie >= gemiddelde frequentie * threshold) en (lengte <= max_lengte)
 
-91597 totale berichten in 48 uur. 
+91597 totale bluesky berichten in 48 uur. 
 Filter Emoticons, interpunctie, urls
 
 Totaal aantal woorden (na filtering): 1088864
