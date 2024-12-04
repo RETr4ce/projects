@@ -150,7 +150,6 @@ blik
 blind
 block
 bloed
-blog
 blok
 blue
 bodem
@@ -188,7 +187,6 @@ bron
 brood
 bruin
 bs
-bsky
 btw
 bus
 but
@@ -248,8 +246,6 @@ dacht
 dag
 dagje
 dak
-dame
-dames
 damn
 dan
 dance
@@ -317,7 +313,6 @@ dom
 domme
 done
 dont
-dood
 door
 doorbrengen
 doordat
@@ -430,7 +425,6 @@ f
 face
 fact
 fair
-fake
 fan
 fans
 far
@@ -491,7 +485,6 @@ geef
 geeft
 geel
 geen
-geert
 geest
 gegeven
 gehad
@@ -547,7 +540,6 @@ gooi
 gooit
 got
 goud
-gouda
 graag
 grap
 great
@@ -561,14 +553,10 @@ grote
 group
 guess
 gun
-guus
-guy
-guys
 gvd
 gwn
 h
 ha
-haag
 haal
 haalt
 haar
@@ -621,7 +609,6 @@ hello
 help
 helpt
 hem
-hema
 hemel
 hen
 her
@@ -670,7 +657,6 @@ hoeveelheid
 hoeven
 hoewel
 hoezo
-hof
 hoge
 hoger
 hoi
@@ -765,7 +751,6 @@ jezus
 jij
 jijzelf
 joh
-johan
 join
 jong
 jonge
@@ -811,9 +796,7 @@ kind
 king
 kip
 klaar
-klant
 klap
-klas
 klein
 kleur
 klik
@@ -890,7 +873,6 @@ leest
 left
 leg
 lege
-leger
 legt
 leidt
 leren
@@ -951,12 +933,9 @@ maar
 maat
 made
 mag
-mail
 make
 maken
 makes
-mama
-man
 mand
 many
 markt
@@ -1074,7 +1053,6 @@ niets
 nieuw
 night
 niks
-nl
 no
 noch
 nodig
@@ -1115,7 +1093,6 @@ oke
 old
 olie
 om
-oma
 omdat
 omg
 omhoog
@@ -1277,7 +1254,6 @@ ruikt
 ruim
 run
 rust
-rutte
 ruzie
 s
 saai
@@ -1359,8 +1335,6 @@ stay
 steeds
 stel
 stelt
-stem
-stemt
 sterk
 steun
 stijl
@@ -1473,7 +1447,6 @@ trol
 trots
 trouw
 true
-trump
 try
 tsja
 tuig
@@ -1575,7 +1548,6 @@ vrees
 vrij
 vrije
 vroeg
-vrouw
 vuur
 w
 waar
@@ -1597,7 +1569,6 @@ wait
 wal
 wanneer
 want
-war
 ware
 waren
 warm
@@ -1632,7 +1603,6 @@ went
 werd
 werden
 were
-werk
 werkt
 west
 wet
@@ -1652,7 +1622,6 @@ wie
 wiens
 wier
 wij
-wijk
 wijn
 wijs
 wijst
@@ -1670,8 +1639,6 @@ wist
 wit
 with
 witte
-woman
-women
 won
 wonen
 wont
@@ -1707,7 +1674,6 @@ your
 youre
 yup
 z
-zaak
 zaal
 zacht
 zadel
@@ -1771,7 +1737,6 @@ zover
 zowat
 zowel
 zucht
-zuid
 zulk
 zulke
 zulks
