@@ -1,3 +1,4 @@
+```
 Formule: Stopwoord = ((frequentie >= gemiddelde frequentie * threshold) en (lengte <= max_lengte)
 
 91597 totale berichten in 48 uur. 
@@ -27,3 +28,4 @@ Word Length
 10      4
 11     11
 12      4
+```
