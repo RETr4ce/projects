@@ -41,6 +41,7 @@ all
 alle
 allebei
 alleen
+allemaal
 allen
 alles
 als
@@ -49,6 +50,7 @@ also
 alsof
 alt
 altijd
+alweer
 am
 amper
 an
@@ -67,6 +69,7 @@ arent
 arm
 arme
 armen
+art
 as
 ass
 at
@@ -91,6 +94,7 @@ bedoeling
 beeld
 been
 beer
+beetje
 begin
 beginnen
 begint
@@ -113,6 +117,7 @@ benen
 bent
 bente
 bepaald
+bepaalde
 besef
 best
 beste
@@ -294,6 +299,7 @@ dik
 dikke
 dikwijls
 ding
+dingen
 dit
 dj
 dm
@@ -370,11 +376,13 @@ effe
 ego
 eh
 eigen
+eigenlijk
 eind
 einde
 eisen
 ek
 elk
+elkaar
 elke
 else
 em
@@ -390,6 +398,7 @@ enkel
 enkele
 enof
 enorm
+enorme
 enz
 enzo
 eppo
@@ -479,6 +488,7 @@ gauw
 gave
 gay
 ge
+gedaan
 gedoe
 gedurende
 geef
@@ -498,6 +508,7 @@ gele
 geleden
 gelijk
 geluk
+gelukkig
 gemak
 genoeg
 genoegen
@@ -510,6 +521,7 @@ gewoon
 gewoonweg
 geworden
 gezet
+gezien
 gezin
 gif
 gij
@@ -595,9 +607,11 @@ heeft
 heel
 heen
 heer
+heerlijk
 heet
 hekel
 hel
+helaas
 held
 hele
 heleboel
@@ -672,6 +686,7 @@ hoop
 hoor
 hoort
 hope
+hopelijk
 hopen
 horen
 horny
@@ -698,6 +713,7 @@ ideen
 idem
 ie
 ieder
+iedereen
 iemand
 iets
 if
@@ -736,6 +752,7 @@ ja
 jaaa
 jaaaa
 jaar
+jammer
 jan
 japan
 jaren
@@ -759,6 +776,7 @@ jouw
 jouwe
 jr
 juist
+juiste
 jullie
 juni
 just
@@ -789,6 +807,7 @@ kids
 kies
 kiest
 kijk
+kijken
 kijkt
 kill
 kilo
@@ -829,6 +848,7 @@ koude
 krant
 kreeg
 krijg
+krijgen
 kroeg
 kun
 kunnen
@@ -875,6 +895,7 @@ leg
 lege
 legt
 leidt
+lekker
 leren
 les
 less
@@ -953,6 +974,7 @@ mee
 meen
 meer
 meest
+meestal
 meesten
 meet
 mega
@@ -1028,6 +1050,7 @@ nam
 name
 namen
 nare
+natuurlijk
 ne
 nee
 need
@@ -1051,6 +1074,7 @@ nie
 niet
 niets
 nieuw
+nieuwe
 night
 niks
 no
@@ -1316,6 +1340,7 @@ soon
 soort
 sorry
 sound
+sowieso
 space
 speel
 spel
@@ -1349,6 +1374,7 @@ stopt
 story
 straf
 strak
+straks
 stuff
 stuk
 stuur
@@ -1510,6 +1536,7 @@ view
 vieze
 vijf
 vind
+vinden
 vindt
 virus
 vis
@@ -1629,6 +1656,7 @@ wijze
 wil
 wild
 wilde
+willen
 wilt
 win
 wind
@@ -1690,6 +1718,7 @@ zee
 zeer
 zeg
 zege
+zeggen
 zegt
 zei
 zeker
@@ -1699,6 +1728,7 @@ zelfde
 zelfs
 zes
 zet
+zetten
 zich
 zicht
 zichzelf
@@ -1713,6 +1743,7 @@ zijnde
 zijne
 zin
 zit
+zitten
 zn
 zo
 zo'n
