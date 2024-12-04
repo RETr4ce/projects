@@ -15,7 +15,7 @@ Langste woordlengte: 12
 Kortste woordlengte: 1
 
 Aantal woorden per lengte:
-Word Length
+Word Lengte
 1      36
 2      99
 3     306
