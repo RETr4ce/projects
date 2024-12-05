@@ -49,6 +49,8 @@ al
 album
 aldus
 alhoewel
+alinea
+alinia
 all
 alle
 allebei
@@ -104,6 +106,7 @@ bedenken
 bedoeld
 bedoelen
 bedoeling
+bedraagt
 beeld
 been
 beer
@@ -139,6 +142,7 @@ bepaald
 bepaalde
 bericht
 berichten
+berichtgeving
 besef
 beshouwd
 best
@@ -147,6 +151,7 @@ beter
 betere
 betreffende
 beurt
+beweert
 bezien
 bezig
 bie
@@ -155,6 +160,7 @@ bier
 big
 bij
 bijbehorende
+bijdraagt
 bijgewerkt
 bijna
 bijv
@@ -200,6 +206,7 @@ bouw
 boven
 bovenal
 bovendien
+bovenop
 bovenstaand
 box
 boy
@@ -221,6 +228,7 @@ brood
 bruin
 bs
 btw
+buigen
 buiten
 bus
 but
@@ -905,6 +913,7 @@ krijg
 krijgen
 krijgt
 kroeg
+krul
 kun
 kunnen
 kunst
@@ -949,6 +958,7 @@ leest
 left
 leg
 lege
+leggen
 legt
 leidt
 lekker
@@ -1016,11 +1026,14 @@ mag
 make
 maken
 makes
+man
 mand
 manier
+mannen
 many
 markt
 mate
+materie
 maw
 max
 may
@@ -1042,6 +1055,7 @@ mega
 meld
 meldt
 men
+meneer
 mens
 mensen
 merci
@@ -1049,6 +1063,7 @@ merk
 met
 meteen
 meter
+mevrouw
 mezelf
 mi
 middels
@@ -1228,6 +1243,7 @@ out
 ouwe
 oven
 over
+overal
 overig
 overige
 overigens
@@ -1363,6 +1379,7 @@ samen
 saw
 say
 says
+schepje
 schudden
 se
 see
@@ -1437,6 +1454,7 @@ state
 stay
 steeds
 stel
+stellen
 stelt
 sterk
 steun
@@ -1604,6 +1622,7 @@ velen
 vent
 ver
 verder
+vergelijkbare
 verre
 vers
 verse
@@ -1662,6 +1681,7 @@ vrees
 vrij
 vrije
 vroeg
+vrouw
 vuur
 w
 waar
