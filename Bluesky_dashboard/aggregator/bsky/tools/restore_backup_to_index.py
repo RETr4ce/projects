@@ -6,7 +6,7 @@ import logging
 
 # === SETTINGS ===
 
-# Elasticsearch configuration
+# Configuration settings
 ELASTICSEARCH_HOSTS = ["https://localhost:9200"]
 ELASTICSEARCH_VERIFY_CERTS = True
 ELASTICSEARCH_CA_CERTS = "ca.crt"
